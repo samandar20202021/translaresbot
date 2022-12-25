@@ -1,0 +1,2 @@
+# translaresbot
+alogram orqali yaratigan 
